@@ -1,0 +1,7 @@
+.venv
+.venv3.12
+.ipynb_checkpoints
+employees.csv
+CustomerCallList.xlsx
+alex_theAnalyst.ipynb
+gfg_test.ipynb
